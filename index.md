@@ -1,11 +1,12 @@
 # How does OpenWater's mind reader work?!
 
-When I watched Mary Lou Jepsen's TED talk first, it reminded me of Minority report's machine that reads the precogs mind with light. "What a stupid idea" -- I thought. "The light cannot go through the brain tissue." So, now I know, the near-infrared light goes through not only the brain tissue but also it can go through the skull bone.
+When I watched Mary Lou Jepsen's TED talk first, it reminded me of [Minority report](https://www.imdb.com/title/tt0181689/)'s machine that reads the precogs mind with light. "What a stupid idea" -- I thought. "The light cannot go through the brain tissue." So, now I know, the near-infrared light goes through not only the brain tissue but also it can go through the skull bone.
 
 <div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/mary_lou_jepsen_how_we_can_use_light_to_see_deep_inside_our_bodies_and_brains" width="854" height="480" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 
-It's a very exciting thing because it promises a non-invasive method that provides insight into the brain function. No needles and wires needed. You have to wear only a weird shining cap on your head. I thought it would be worth to read a little bit more about this technology. After a quick search, I've found Jepsen's patent on Google Patent Search.
+It's a very exciting thing because it promises a non-invasive method that provides insight into the brain function. No needles and wires needed. You have to wear only a weird shining cap on your head. I thought it would be worth to read a little bit more about this technology. After a quick search, I've found Jepsen's [patent](https://patents.google.com/patent/US9730649B1/en) on Google Patent Search.
 
+![https://patents.google.com/patent/US9730649B1/en](patent.png)
 
 This picture above shows how the system works. On the left side, you can find the "holographic projector" (110) which projects holographic light patterns to the tissue. This projector built from an infra-red laser (105), an infrared director (103) and a special LCD pixel array (113). This pixel array is something similar to your notebook screen, but it can adjust not only the intensity of the rays that go through the pixels, but it adjusts also the phase of them.
 
@@ -17,13 +18,12 @@ In summary, a "holographic projector" projects a hologram through the tissue, wh
 
 Using ultrasound is one of the possible solutions, but not the only one. It can be used other triggers like watching a photo or think of a word. When somebody thinks of a word, her neural pattern will change (some neurons will be activated) which change the light go through her brain. The system can find the optimal holographic pattern what should be projected to focus the light and learn the output patterns of the words. With this system, machines can be controlled by thoughts, we can communicate by telepathy, etc. It is something like "light-based deep EEG". There already exists commercially available EEG headsets (like Emotiv) what are able to read brain activity, but this technology is very limited.
 
-
 As Jepsen told, her technology is much more accurate like the fMRI, which is the most accurate brain scanning technology today. On the video below, you can see an experiment where images were reconstructed from the brain activity measured by an fMRI scanner. On the left side, you can see the original image and on the right side the reconstructed image.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nsjDnYxJ0bo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Jepsen's technology promises much better resolution of brain scanning and much better images. In the not too distant future, we can be able to record our dreams, like the precogs dreams were recorded in Minority report. And it' not everything that we can do! Theoretically, this technology can not only read but write our brain. Neurons can be activated by light and ultrasound. What does it mean? In the future, we can be able to project images directly to the brain. And not only images but smells, flavors, touch feelings. It can be the key to the full-immersive virtual reality (like in The Matrix).
+Jepsen's technology promises much better resolution of brain scanning and much better images. In the not too distant future, we can be able to record our dreams, like the precogs dreams were recorded in Minority report. And it' not everything that we can do! Theoretically, this technology can not only read but write our brain. Neurons can be activated by light and ultrasound. What does it mean? In the future, we can be able to project images directly to the brain. And not only images but smells, flavors, touch feelings. It can be the key to the full-immersive virtual reality (like in [The Matrix](https://www.imdb.com/title/tt00133093/)).
 
-If the promises of OpenWater's technology become reality, then it will be one of the greatest inventions of the human kind.
+If the promises of [OpenWater](https://www.openwater.cc/)'s technology become reality, then it will be one of the greatest inventions of the human kind.
 
 _**Source**: [https://medium.com/@thebojda/how-does-openwaters-mind-reader-work-750bea176aeb](https://medium.com/@thebojda/how-does-openwaters-mind-reader-work-750bea176aeb)_
